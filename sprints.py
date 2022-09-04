@@ -27,7 +27,7 @@ def myFunc(list):
  # Small test     
  # 1,2,3,4 ---> 2,4 ---> 2+4 / 2 ---> 6/2=3 correct
  # 1.3 > 1.2 correct   
-print("Mean and maximum values are ",myFunc([1,2,3,4,1.2,1.3]))
+# print("Mean and maximum values are ",myFunc([1,2,3,4,1.2,1.3]))
 
 
 
